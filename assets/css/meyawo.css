@@ -11190,6 +11190,7 @@ p {
 /*/ portfolio wrapper */
 .portfolio-card {
   display: block;
+  margin-bottom: 20px;
   position: relative;
   overflow: hidden;
 }
@@ -11197,6 +11198,7 @@ p {
 .portfolio-card .portfolio-card-img {
   width: 100%;
 }
+
 
 .portfolio-card .portfolio-card-overlay {
   position: absolute;
